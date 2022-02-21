@@ -96,6 +96,12 @@ body {
   color: black;
 }
 
+.sound-toggle{
+  position: absolute;
+  margin-left: 50px;
+  
+}
+
 @media (max-width: 995px) {
   .main-container {
     width: 40%;
